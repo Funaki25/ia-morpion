@@ -59,4 +59,4 @@ Ce projet fait partie des activités de la **SAE 2 DEV**, qui vise à concevoir 
 
 1. **Compilation** :
    ```bash
-   g++ -o morpion main.cpp morpion.cpp -std=c++11
+   g++ main.cpp -o morpion
